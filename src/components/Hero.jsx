@@ -15,7 +15,7 @@ const Hero = () => {
             className='min-h-screen flex items-center pt-20 pb-16 bg-gradient-to-r from-[#1a1a1a] via-[#2d2d2d] to-[#1a1a1a]'
         >
 
-            <div className="container mx-auto px-6 flex flex-col md:flex-row items-center justify-between">
+            <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row items-center justify-center gap-20">
                 {/*Left side */}
                 <div className="md:w-1/2 mb-10 md:mb-0 ">
                     <h1 className="text-4xl md:text-6xl font-bold mb-4">
