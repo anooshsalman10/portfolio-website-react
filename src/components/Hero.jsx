@@ -60,7 +60,7 @@ const Hero = () => {
 
                         {/*for using download button use anchor tag & directly write download cv no need to use nested button tag*/}
                         <a
-                            href="/Anoosh-Salman-CV.pdf"
+                            href="/Anoosh_Salman_Resume.pdf"
                             download
                             className="bg-purple-600 hover:bg-purple-700 text-white px-6 py-2 rounded inline-block"
                         >
