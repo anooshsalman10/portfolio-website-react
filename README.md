@@ -3,10 +3,10 @@
 A multi-page personal portfolio website built with React and Framer Motion. Designed to showcase my projects, skills, and journey as a frontend developer.
 
 ## Live Demo
-(https://portfolio-link.vercel.app)
+[portfolio-website-react-zeta-six.vercel.app](https://portfolio-website-react-zeta-six.vercel.app)
 
 ## Github
-https://github.com/anooshsalman10/portfolio-website-react.git
+[github.com/anooshsalman10/portfolio-website-react](https://github.com/anooshsalman10/portfolio-website-react)
 
 ## Features
 - Multi-page architecture with React Router
