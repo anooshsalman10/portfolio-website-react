@@ -6,7 +6,7 @@ A multi-page personal portfolio website built with React and Framer Motion. Desi
 (https://portfolio-link.vercel.app)
 
 ## Github
-(https://portfolio-link.vercel.app)
+https://github.com/anooshsalman10/portfolio-website-react.git
 
 ## Features
 - Multi-page architecture with React Router
@@ -20,9 +20,9 @@ A multi-page personal portfolio website built with React and Framer Motion. Desi
 React, React Router, Tailwind CSS, Framer Motion, React Icons
 
 ## Screenshots
-![Home](assets/screenshots/pHome.png)
-![Projects](assets/screenshots/pProjects.png)
-![Skills](assets/screenshots/pSkills.png)
+![Home](src/assets/screenshots/pHome.png)
+![Projects](src/assets/screenshots/pProjects.png)
+![Skills](src/assets/screenshots/pSkills.png)
 
 ## Pages
 - Home
