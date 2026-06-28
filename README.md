@@ -1,0 +1,33 @@
+# Anoosh Salman | Portfolio Website
+
+A multi-page personal portfolio website built with React and Framer Motion. Designed to showcase my projects, skills, and journey as a frontend developer.
+
+## Live Demo
+(https://portfolio-link.vercel.app)
+
+## Github
+(https://portfolio-link.vercel.app)
+
+## Features
+- Multi-page architecture with React Router
+- Smooth page and scroll animations with Framer Motion
+- Fully responsive design across all screen sizes
+- Projects showcase with live demo and GitHub links
+- Timeline-based experience and education section
+- Contact section
+
+## Tech Stack
+React, React Router, Tailwind CSS, Framer Motion, React Icons
+
+## Screenshots
+![Home](assets/screenshots/pHome.png)
+![Projects](assets/screenshots/pProjects.png)
+![Skills](assets/screenshots/pSkills.png)
+
+## Pages
+- Home
+- About
+- Skills
+- My Journey
+- Projects
+- Contact
