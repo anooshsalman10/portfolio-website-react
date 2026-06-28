@@ -32,12 +32,12 @@ const Navbar = () => {
 
   return (
     <nav
-      className={`fixed top-0 w-full z-50 transition duration-300  px-[7vw] md:px-[7vw] lg:px-[20vw] ${isScrolled
+      className={`fixed top-0 w-full z-50 transition duration-300  ${isScrolled
         ? "bg-dark-100/90 bg-opacity-50 backdrop-blur-md shadow-md"
         : "bg-transparent"
         }`}
     >
-      <div className="text-white py-6 px-0 flex justify-between items-center">
+      <div className="max-w-7xl mx-auto px-6 py-6 flex justify-between items-center">
 
         {/* Logo — links to home */}
         <div className="left-6">
